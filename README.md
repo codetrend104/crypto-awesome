@@ -13,5 +13,5 @@ https://api.coingecko.com/api/v3/simple/price?ids=dogecoin,tron,dash,lightcoin,e
 last 7 day chart data  
 https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=7&interval=daily
 
-Free api and websooket for kline, candle charts
+Free api and websooket for kline, candle charts  
 https://www.cryptocompare.com/cryptopian/api-keys
